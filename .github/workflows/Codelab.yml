@@ -17,7 +17,7 @@ env:
   API_IMPORT_DLL: Codelab\bin\Release\net7.0\Codelab.dll
   API_IMPORT_VERSION: v1
   CONFIGURATION: Release
-  DOTNET_CORE_VERSION: 7.0.x
+  DOTNET_CORE_VERSION: 6.0.x
   WORKING_DIRECTORY: Codelab
 jobs:
   build:
